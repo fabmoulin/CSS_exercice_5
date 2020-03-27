@@ -1,5 +1,6 @@
 body {
     color:black;
     background-color:white;
-    background-image:url(C:\Users\antho\Desktop\Exercices\CSS_exercice_5\assets\images\kevinmc.jpg);
+    background-image:url(../images/kevinmc.jpg);
+    background-repeat: no-repeat;
     }
