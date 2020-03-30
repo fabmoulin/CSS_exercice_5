@@ -1,6 +1,8 @@
 body {
+    text-align: center;
     color:black;
     background-color:white;
-    background-image:url(../images/kevinmc.jpg);
-    background-repeat: no-repeat;
+    background-image:url(../images/kevinmc.jpg);    
+    background-size: cover;
+    background-attachment: fixed;
     }
